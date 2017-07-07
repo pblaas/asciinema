@@ -1,0 +1,554 @@
+{
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "width": 211,
+  "height": 54,
+  "version": 1,
+  "duration": 48.802162,
+  "stdout": [
+    [
+      0.341657,
+      "\u001b]777;notify;Command completed;sudo reboot\u0007\u001b]0;pblaas@LPT0006:~/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007\u001b]7;file://LPT0006/home/pblaas/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007"
+    ],
+    [
+      0.000214,
+      "[pblaas@LPT0006 storage]$ "
+    ],
+    [
+      1.864132,
+      "c"
+    ],
+    [
+      0.073071,
+      "i"
+    ],
+    [
+      0.08902,
+      "n"
+    ],
+    [
+      0.06314,
+      "d"
+    ],
+    [
+      0.103745,
+      "e"
+    ],
+    [
+      0.096122,
+      "r"
+    ],
+    [
+      0.048203,
+      " "
+    ],
+    [
+      0.126822,
+      "l"
+    ],
+    [
+      0.089711,
+      "i"
+    ],
+    [
+      0.079344,
+      "s"
+    ],
+    [
+      0.044014,
+      "t"
+    ],
+    [
+      0.637701,
+      "\r\n"
+    ],
+    [
+      1.391604,
+      "+----+--------+------+------+-------------+----------+-------------+\r\n| ID | Status | Name | Size | Volume Type | Bootable | Attached to |\r\n+----+--------+------+------+-------------+----------+-------------+\r\n+----+--------+------+------+-------------+----------+-------------+\r\n"
+    ],
+    [
+      0.074465,
+      "\u001b]777;notify;Command completed;cinder list\u0007\u001b]0;pblaas@LPT0006:~/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007\u001b]7;file://LPT0006/home/pblaas/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007"
+    ],
+    [
+      5.6e-05,
+      "[pblaas@LPT0006 storage]$ "
+    ],
+    [
+      0.932233,
+      "k"
+    ],
+    [
+      0.054158,
+      "u"
+    ],
+    [
+      0.18567,
+      "b"
+    ],
+    [
+      0.264875,
+      "\u0007e"
+    ],
+    [
+      0.390633,
+      "c"
+    ],
+    [
+      0.224594,
+      "tl "
+    ],
+    [
+      0.440208,
+      "g"
+    ],
+    [
+      0.22349,
+      "e"
+    ],
+    [
+      0.0881,
+      "t"
+    ],
+    [
+      0.112005,
+      " "
+    ],
+    [
+      0.119816,
+      "p"
+    ],
+    [
+      0.080529,
+      "v"
+    ],
+    [
+      0.175872,
+      "c"
+    ],
+    [
+      0.176071,
+      "\r\n"
+    ],
+    [
+      0.162545,
+      "No resources found.\r\n"
+    ],
+    [
+      0.031162,
+      "\u001b]777;notify;Command completed;kubectl get pvc\u0007\u001b]0;pblaas@LPT0006:~/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007\u001b]7;file://LPT0006/home/pblaas/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007"
+    ],
+    [
+      0.000337,
+      "[pblaas@LPT0006 storage]$ "
+    ],
+    [
+      0.860841,
+      "k"
+    ],
+    [
+      0.112966,
+      "u"
+    ],
+    [
+      0.200209,
+      "b"
+    ],
+    [
+      0.086593,
+      "\u0007e"
+    ],
+    [
+      0.169222,
+      "c"
+    ],
+    [
+      0.170068,
+      "tl "
+    ],
+    [
+      0.714992,
+      "c"
+    ],
+    [
+      0.235532,
+      "r"
+    ],
+    [
+      0.023461,
+      "e"
+    ],
+    [
+      0.134977,
+      "a"
+    ],
+    [
+      0.142105,
+      "t"
+    ],
+    [
+      0.074627,
+      "e"
+    ],
+    [
+      0.119941,
+      " "
+    ],
+    [
+      0.904051,
+      "-"
+    ],
+    [
+      0.064315,
+      "f"
+    ],
+    [
+      0.063433,
+      " "
+    ],
+    [
+      0.792772,
+      "p"
+    ],
+    [
+      0.064188,
+      "v"
+    ],
+    [
+      0.183906,
+      "c"
+    ],
+    [
+      0.185068,
+      "\u0007"
+    ],
+    [
+      0.638683,
+      "\b\u001b[K"
+    ],
+    [
+      0.14294,
+      "\b\u001b[K"
+    ],
+    [
+      0.245337,
+      "\b\u001b[K"
+    ],
+    [
+      0.155999,
+      "t"
+    ],
+    [
+      0.095633,
+      "e"
+    ],
+    [
+      0.072354,
+      "s"
+    ],
+    [
+      0.08749,
+      "t"
+    ],
+    [
+      0.696342,
+      "-pvc.yml "
+    ],
+    [
+      0.743401,
+      "\r\n"
+    ],
+    [
+      0.238435,
+      "persistentvolumeclaim \"prolume\" created\r\n"
+    ],
+    [
+      0.008888,
+      "\u001b]777;notify;Command completed;kubectl create -f test-pvc.yml \u0007\u001b]0;pblaas@LPT0006:~/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007\u001b]7;file://LPT0006/home/pblaas/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007"
+    ],
+    [
+      4.8e-05,
+      "[pblaas@LPT0006 storage]$ "
+    ],
+    [
+      4.009142,
+      "kubectl create -f test-pvc.yml "
+    ],
+    [
+      0.271235,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\bget pvc\u001b[K"
+    ],
+    [
+      0.706292,
+      "\r\n"
+    ],
+    [
+      0.141426,
+      "NAME      STATUS    VOLUME                "
+    ],
+    [
+      0.000221,
+      "                     CAPACITY   ACCESSMODES   STORAGECLASS"
+    ],
+    [
+      7.8e-05,
+      "   AGE\r\nprolume   Bound     pvc-a416f6ef-5596-11e7-9eb2-023671076bfc   3Gi        RWO        "
+    ],
+    [
+      5.8e-05,
+      "   gold           5s\r\n"
+    ],
+    [
+      0.038278,
+      "\u001b]777;notify;Command completed;kubectl get pvc\u0007\u001b]0;pblaas@LPT0006:~/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007\u001b]7;file://LPT0006/home/pblaas/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007"
+    ],
+    [
+      0.000326,
+      "[pblaas@LPT0006 storage]$ "
+    ],
+    [
+      1.194298,
+      "kubectl get pvc"
+    ],
+    [
+      0.351987,
+      "\b\u001b[K"
+    ],
+    [
+      0.318943,
+      "\r\n"
+    ],
+    [
+      0.168625,
+      "NAME                                       CAPACITY   ACCESSMODES"
+    ],
+    [
+      6.8e-05,
+      "   RECLAIMPOLICY   STATUS    CLAIM        "
+    ],
+    [
+      0.000231,
+      "     STORAGECLASS   REASON    AGE\r\npvc-a416f6ef-5596-11e7-9eb2-023671076bfc   3Gi        RWO           Delete          Bound     default/prolume   gold                     7s\r\n"
+    ],
+    [
+      0.037848,
+      "\u001b]777;notify;Command completed;kubectl get pv\u0007\u001b]0;pblaas@LPT0006:~/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007\u001b]7;file://LPT0006/home/pblaas/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007"
+    ],
+    [
+      0.000198,
+      "[pblaas@LPT0006 storage]$ "
+    ],
+    [
+      2.481032,
+      "c"
+    ],
+    [
+      0.104735,
+      "i"
+    ],
+    [
+      0.064456,
+      "n"
+    ],
+    [
+      0.071848,
+      "d"
+    ],
+    [
+      0.150851,
+      "e"
+    ],
+    [
+      0.073669,
+      "r"
+    ],
+    [
+      0.047357,
+      " "
+    ],
+    [
+      0.12831,
+      "l"
+    ],
+    [
+      0.079741,
+      "i"
+    ],
+    [
+      0.119453,
+      "s"
+    ],
+    [
+      0.024962,
+      "t"
+    ],
+    [
+      0.175691,
+      "\r\n"
+    ],
+    [
+      1.252792,
+      "+--------------------------------------+-----------+-------------------------------------------------------------+------+-------------+----------+-------------+\r\n| ID                                   | Status    | Name                                                        | Size | Volume Type | Bootable | Attached to |\r\n+--------------------------------------+-----------+-------------------------------------------------------------+------+-------------+----------+-------------+\r\n| 9576352d-e664-4d0b-9343-78c16ebb8774 | available | kubernetes-dynamic-pvc-a416f6ef-5596-11e7-9eb2-023671076bfc | 3    | ssd         | false    |             |\r\n+--------------------------------------+-----------+-------------------------------------------------------------+------+-------------+----------+-------------+\r\n"
+    ],
+    [
+      0.098894,
+      "\u001b]777;notify;Command completed;cinder list\u0007\u001b]0;pblaas@LPT0006:~/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007\u001b]7;file://LPT0006/home/pblaas/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007"
+    ],
+    [
+      3e-05,
+      "[pblaas@LPT0006 storage]$ "
+    ],
+    [
+      3.478851,
+      "k"
+    ],
+    [
+      0.113769,
+      "u"
+    ],
+    [
+      0.248049,
+      "b"
+    ],
+    [
+      0.639692,
+      "c"
+    ],
+    [
+      0.790977,
+      "\b\u001b[K"
+    ],
+    [
+      0.961008,
+      "e"
+    ],
+    [
+      0.328256,
+      "c"
+    ],
+    [
+      0.224022,
+      "t"
+    ],
+    [
+      0.2417,
+      "l "
+    ],
+    [
+      1.341038,
+      "d"
+    ],
+    [
+      0.18389,
+      "e"
+    ],
+    [
+      0.096847,
+      "l"
+    ],
+    [
+      0.096093,
+      "e"
+    ],
+    [
+      0.056423,
+      "t"
+    ],
+    [
+      0.087688,
+      "e"
+    ],
+    [
+      0.159648,
+      " "
+    ],
+    [
+      0.576027,
+      "p"
+    ],
+    [
+      0.1043,
+      "v"
+    ],
+    [
+      0.176264,
+      "c"
+    ],
+    [
+      0.840362,
+      " "
+    ],
+    [
+      0.27173,
+      "p"
+    ],
+    [
+      0.144048,
+      "r"
+    ],
+    [
+      0.56688,
+      "o"
+    ],
+    [
+      0.215839,
+      "l"
+    ],
+    [
+      0.192851,
+      "u"
+    ],
+    [
+      0.175371,
+      "m"
+    ],
+    [
+      0.104476,
+      "e"
+    ],
+    [
+      1.943332,
+      "\r\n"
+    ],
+    [
+      0.308714,
+      "persistentvolumeclaim \"prolume\" deleted\r\n"
+    ],
+    [
+      0.015863,
+      "\u001b]777;notify;Command completed;kubectl delete pvc prolume\u0007\u001b]0;pblaas@LPT0006:~/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007\u001b]7;file://LPT0006/home/pblaas/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007"
+    ],
+    [
+      5.1e-05,
+      "[pblaas@LPT0006 storage]$ "
+    ],
+    [
+      2.235578,
+      "kubectl delete pvc prolume"
+    ],
+    [
+      0.369132,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\u001b[15Pcinder list"
+    ],
+    [
+      0.889612,
+      "\r\n"
+    ],
+    [
+      1.195621,
+      "+----+--------+------+------+-------------+----------+-------------+\r\n| ID | Status | Name | Size | Volume Type | Bootable | Attached to |\r\n+----+--------+------+------+-------------+----------+-------------+\r\n+----+--------+------+------+-------------+----------+-------------+\r\n"
+    ],
+    [
+      0.094768,
+      "\u001b]777;notify;Command completed;cinder list\u0007\u001b]0;pblaas@LPT0006:~/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007\u001b]7;file://LPT0006/home/pblaas/Documents/cloudvps/terraform/k8s-singlenode/cloudinit_generator/storage\u0007"
+    ],
+    [
+      3e-05,
+      "[pblaas@LPT0006 storage]$ "
+    ]
+  ],
+  "command": null,
+  "title": null
+}

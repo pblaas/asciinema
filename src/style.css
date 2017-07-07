@@ -1,0 +1,12 @@
+body {
+      background-image:url(kubernetes-bg.png);
+      background-color: rgba(255,255,255,.9);
+      background-blend-mode: lighten;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-attachment: fixed;
+}
+
+.clips {
+  opacity: 0.8;
+}
