@@ -5,7 +5,7 @@ podTemplate(label: 'mypod', containers: [
   node('mypod') {
       stage('Build and Push Webserver'){
           container('docker'){
-           sh ("echo FROM NGINX > Dockerfile && echo ADD /src/ /usr/share/nginx/html >> Dockerfile && echo expose 80 >> Dockerfile")  
+           sh ("echo FROM nginx > Dockerfile && echo ADD /src/ /usr/share/nginx/html >> Dockerfile && echo expose 80 >> Dockerfile")  
            dir('src'){
              git url: 'git://github.com/pblaas/asciinema.git'
            }
