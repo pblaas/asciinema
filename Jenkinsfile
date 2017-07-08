@@ -5,7 +5,7 @@ podTemplate(label: 'mypod', containers: [
   node('mypod') {
       stage('Build and Push Webserver'){
           container('docker'){
-           git url: 'git://github.com/pblaas/nginxphpfpm.git'
+           sh ("echo FROM NGINX > Dockerfile && echo ADD /src/ /usr/share/nginx/html >> Dockerfile && echo expose 80 >> Dockerfile")  
            dir('src'){
              git url: 'git://github.com/pblaas/asciinema.git'
            }
@@ -33,7 +33,6 @@ node{
     sh("./kubectl config set-cluster internal1 --server=https://10.3.0.1 --certificate-authority=/var/run/secrets/kubernetes.io/serviceaccount/ca.crt")
     sh("./kubectl config set-context default --user=jenkins-build --namespace=`cat /var/run/secrets/kubernetes.io/serviceaccount/namespace`  --cluster=internal1")
     sh("./kubectl config use-context default")
-
     sh("./kubectl set image deployment tcast tcast=pblaas/asciinema:${env.BUILD_TAG}")
   }
 }
