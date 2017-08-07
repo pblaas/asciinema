@@ -34,6 +34,7 @@ node{
     sh("./kubectl config set-context default --user=jenkins-build --namespace=`cat /var/run/secrets/kubernetes.io/serviceaccount/namespace`  --cluster=internal1")
     sh("./kubectl config use-context default")
     sh("./kubectl -n default set image deployment tcast tcast=pblaas/asciinema:${env.BUILD_TAG}")
+    sh('curl -H "Content-type: application/json" -H "Authorization: Bearer ${env.AUTH_TOKEN}" -X POST -d "{\"color\": \"green\", \"message_format\": \"html\", \"message\": \"${env.MESSAGE}\"}" https://${env.HIPCHAT_URL}/v2/room/${env.ROOM}/notification')
   }
 }
 
