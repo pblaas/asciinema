@@ -1,0 +1,2806 @@
+{
+  "height": 54,
+  "env": {
+    "SHELL": "/bin/bash",
+    "TERM": "xterm-256color"
+  },
+  "title": null,
+  "version": 1,
+  "duration": 275.825441,
+  "command": null,
+  "width": 104,
+  "stdout": [
+    [
+      0.267428,
+      "\u001b]777;notify;Command completed;strong\u0007\u001b]0;pblaas@LPT0006:~\u0007\u001b]7;file://LPT0006/home/pblaas\u0007"
+    ],
+    [
+      0.003543,
+      "pblaas@LPT0006 \u001b[32m~\u001b[33m\u001b[00m $ "
+    ],
+    [
+      0.989865,
+      "."
+    ],
+    [
+      0.024497,
+      "/"
+    ],
+    [
+      0.175739,
+      "c"
+    ],
+    [
+      0.071792,
+      "l"
+    ],
+    [
+      0.11258,
+      "\u0007oudvps"
+    ],
+    [
+      0.78377,
+      "."
+    ],
+    [
+      0.063809,
+      "sh "
+    ],
+    [
+      6.669434,
+      "\r\n"
+    ],
+    [
+      1.059181,
+      "\u001b[1;97mT\u001b[1;0m"
+    ],
+    [
+      0.041692,
+      "\u001b[1;97mh\u001b[1;0m"
+    ],
+    [
+      0.042459,
+      "\u001b[1;97me\u001b[1;0m"
+    ],
+    [
+      0.042614,
+      "\u001b[1;97m\u001b[1;0m"
+    ],
+    [
+      0.04856,
+      "\u001b[1;34m \u001b[1;0m"
+    ],
+    [
+      0.042873,
+      "\u001b[1;34mF\u001b[1;0m"
+    ],
+    [
+      0.042323,
+      "\u001b[1;34mu\u001b[1;0m"
+    ],
+    [
+      0.042678,
+      "\u001b[1;34mt\u001b[1;0m"
+    ],
+    [
+      0.042482,
+      "\u001b[1;34mu\u001b[1;0m"
+    ],
+    [
+      0.042871,
+      "\u001b[1;34mr\u001b[1;0m"
+    ],
+    [
+      0.042593,
+      "\u001b[1;34me\u001b[1;0m"
+    ],
+    [
+      0.04256,
+      "\u001b[1;34m \u001b[1;0m"
+    ],
+    [
+      0.041894,
+      "\u001b[1;34m\u001b[1;0m"
+    ],
+    [
+      0.04799,
+      "\u001b[1;97mi\u001b[1;0m"
+    ],
+    [
+      0.042959,
+      "\u001b[1;97ms\u001b[1;0m"
+    ],
+    [
+      0.042797,
+      "\u001b[1;97m \u001b[1;0m"
+    ],
+    [
+      0.042335,
+      "\u001b[1;97mn\u001b[1;0m"
+    ],
+    [
+      0.042763,
+      "\u001b[1;97mo\u001b[1;0m"
+    ],
+    [
+      0.04223,
+      "\u001b[1;97mw\u001b[1;0m"
+    ],
+    [
+      0.042183,
+      "\u001b[1;97m\u001b[1;0m"
+    ],
+    [
+      0.047306,
+      "\u001b[1;34m!\u001b[1;0m"
+    ],
+    [
+      0.042266,
+      "\u001b[1;34m\u001b[1;0m"
+    ],
+    [
+      0.04245,
+      "\r\n"
+    ],
+    [
+      0.030368,
+      "\u001b[1;90m[1048]\u001b[1;92m[\u001b[1;31mroot\u001b[1;92m:\u001b[1;37m/blueprints\u001b[1;92m]\u001b[33m \u001b[1;92m$\u001b[0m "
+    ],
+    [
+      1.298983,
+      "c"
+    ],
+    [
+      0.043929,
+      "d"
+    ],
+    [
+      0.095172,
+      " "
+    ],
+    [
+      0.109118,
+      "t"
+    ],
+    [
+      0.231482,
+      "f"
+    ],
+    [
+      0.289258,
+      "genswarm/"
+    ],
+    [
+      1.607095,
+      "\r\n"
+    ],
+    [
+      0.01524,
+      "\u001b[1;90m[1048]\u001b[1;92m[\u001b[1;31mroot\u001b[1;92m:\u001b[1;37m/blueprints/tfgenswarm\u001b[1;92m]\u001b[33m (feature/tfgenswarm) \u001b[1;92m$\u001b[0m "
+    ],
+    [
+      2.128891,
+      "l"
+    ],
+    [
+      0.064199,
+      "s"
+    ],
+    [
+      0.169296,
+      "\r\n"
+    ],
+    [
+      0.00357,
+      "README.md  \u001b[0m\u001b[01;34mcache_on_demand\u001b[0m  \u001b[01;34mtfgenk8s\u001b[0m  \u001b[01;34mtfgenswarm\u001b[0m\r\n"
+    ],
+    [
+      0.010265,
+      "\u001b[1;90m[1048]\u001b[1;92m[\u001b[1;31mroot\u001b[1;92m:\u001b[1;37m/blueprints/tfgenswarm\u001b[1;92m]\u001b[33m (feature/tfgenswarm) \u001b[1;92m$\u001b[0m "
+    ],
+    [
+      0.264881,
+      "c"
+    ],
+    [
+      0.015985,
+      "d"
+    ],
+    [
+      0.095751,
+      " "
+    ],
+    [
+      0.136366,
+      "t"
+    ],
+    [
+      0.175603,
+      "f"
+    ],
+    [
+      0.120159,
+      "\u0007"
+    ],
+    [
+      0.000111,
+      "gen"
+    ],
+    [
+      0.751952,
+      "w"
+    ],
+    [
+      0.216236,
+      "\u0007"
+    ],
+    [
+      0.688307,
+      "\b\u001b[K"
+    ],
+    [
+      0.622658,
+      "s"
+    ],
+    [
+      0.291735,
+      "warm/"
+    ],
+    [
+      0.381977,
+      "\r\n"
+    ],
+    [
+      0.010454,
+      "\u001b[1;90m[1048]\u001b[1;92m[\u001b[1;31mroot\u001b[1;92m:\u001b[1;37m/blueprints/tfgenswarm/tfgenswarm\u001b[1;92m]\u001b[33m (feature/tfgenswarm) \u001b[1;92m$\u001b[0m "
+    ],
+    [
+      2.552565,
+      "l"
+    ],
+    [
+      0.091795,
+      "s"
+    ],
+    [
+      0.192075,
+      "\r\n"
+    ],
+    [
+      0.002573,
+      "Makefile         run.sh         swarmbootstrap.sh     swarmworker.sh.tmpl  terraform.tfstate.backup\r\ncloud.conf.tmpl  swarm.tf.tmpl  swarmmanager.sh.tmpl  terraform.tfstate    \u001b[0m\u001b[01;32mtfgenswarm.py\u001b[0m\r\n"
+    ],
+    [
+      0.010698,
+      "\u001b[1;90m[1048]\u001b[1;92m[\u001b[1;31mroot\u001b[1;92m:\u001b[1;37m/blueprints/tfgenswarm/tfgenswarm\u001b[1;92m]\u001b[33m (feature/tfgenswarm) \u001b[1;92m$\u001b[0m "
+    ],
+    [
+      3.559062,
+      "c"
+    ],
+    [
+      0.091404,
+      "a"
+    ],
+    [
+      0.160486,
+      "t"
+    ],
+    [
+      0.059276,
+      " "
+    ],
+    [
+      0.172408,
+      "r"
+    ],
+    [
+      0.177263,
+      "u"
+    ],
+    [
+      0.071235,
+      "n.sh "
+    ],
+    [
+      0.909082,
+      "\r\n"
+    ],
+    [
+      0.000293,
+      "./tfgenswarm.py PB_ITE_1 83.96.236.77 83.96.237.134\r\n"
+    ],
+    [
+      0.002244,
+      "\u001b[1;90m[1048]\u001b[1;92m[\u001b[1;31mroot\u001b[1;92m:\u001b[1;37m/blueprints/tfgenswarm/tfgenswarm\u001b[1;92m]\u001b[33m (feature/tfgenswarm) \u001b[1;92m$\u001b[0m "
+    ],
+    [
+      7.738007,
+      "."
+    ],
+    [
+      0.000271,
+      "/tfgenswarm.py PB_ITE_1 83.96.236 \r.77 83.96.237.134"
+    ],
+    [
+      1.053863,
+      "\r\n"
+    ],
+    [
+      0.13467,
+      "-----------------------------\r\nConfig generation succesfull.\r\nBootstrapping the cluster can take 3-5 minutes. Please be patient.\r\n\r\nTo start building the cluster: \r\nterraform init && terraform plan && terraform apply\r\n\r\n"
+    ],
+    [
+      0.00816,
+      "\u001b[1;90m[1048]\u001b[1;92m[\u001b[1;31mroot\u001b[1;92m:\u001b[1;37m/blueprints/tfgenswarm/tfgenswarm\u001b[1;92m]\u001b[33m (feature/tfgenswarm) \u001b[1;92m$\u001b[0m "
+    ],
+    [
+      2.446564,
+      "t"
+    ],
+    [
+      0.066779,
+      "e"
+    ],
+    [
+      0.623029,
+      "r"
+    ],
+    [
+      0.193349,
+      "r"
+    ],
+    [
+      0.044586,
+      "a"
+    ],
+    [
+      0.226753,
+      "f"
+    ],
+    [
+      0.063455,
+      "o"
+    ],
+    [
+      0.087854,
+      "r"
+    ],
+    [
+      0.12905,
+      "m"
+    ],
+    [
+      0.111601,
+      " "
+    ],
+    [
+      2.552186,
+      "i"
+    ],
+    [
+      0.111778,
+      "n"
+    ],
+    [
+      0.112819,
+      "i"
+    ],
+    [
+      0.119733,
+      "t"
+    ],
+    [
+      0.169298,
+      "\r\n"
+    ],
+    [
+      0.072037,
+      "\r\n\u001b[0m\u001b[1mInitializing provider plugins...\u001b[0m\r\n"
+    ],
+    [
+      0.054542,
+      "\r\n"
+    ],
+    [
+      5.1e-05,
+      "The following providers do not have any version constraints in configuration,\r\n"
+    ],
+    [
+      0.000112,
+      "so the latest version was installed.\r\n\r\n"
+    ],
+    [
+      0.000826,
+      "To prevent automatic upgrades to new major versions that may contain breaking\r\n"
+    ],
+    [
+      6.4e-05,
+      "changes, it is recommended to add version = \"...\" constraints to the\r\ncorresponding provider blocks in configuration, with the constraint strings\r\nsuggested below.\r\n\r\n* provider.openstack: version = \"~> 0.3\"\r\n\r\n\u001b[0m\u001b[1m\u001b[32mTerraform has been successfully initialized!\u001b[0m\u001b[32m\u001b[0m\r\n\u001b[0m\u001b[32m\r\nYou may now begin working with Terraform. Try running \"terraform plan\" to see\r\nany changes that are required for your infrastructure. All Terraform commands\r\nshould now work.\r\n\r\n"
+    ],
+    [
+      0.000179,
+      "If you ever set or change modules or backend configuration for Terraform,\r\n"
+    ],
+    [
+      6.9e-05,
+      "rerun this command to reinitialize your working directory. If you forget, other\r\n"
+    ],
+    [
+      6.9e-05,
+      "commands will detect it and remind you to do so if necessary.\u001b[0m\r\n"
+    ],
+    [
+      0.003789,
+      "\u001b[1;90m[1048]\u001b[1;92m[\u001b[1;31mroot\u001b[1;92m:\u001b[1;37m/blueprints/tfgenswarm/tfgenswarm\u001b[1;92m]\u001b[33m (feature/tfgenswarm) \u001b[1;92m$\u001b[0m "
+    ],
+    [
+      0.534654,
+      "terraform init"
+    ],
+    [
+      0.252336,
+      "\b\u001b[K"
+    ],
+    [
+      0.148568,
+      "\b\u001b[K"
+    ],
+    [
+      0.131145,
+      "\b\u001b[K"
+    ],
+    [
+      0.160873,
+      "\b\u001b[K"
+    ],
+    [
+      1.572273,
+      "a"
+    ],
+    [
+      0.052998,
+      "p"
+    ],
+    [
+      0.142867,
+      "p"
+    ],
+    [
+      0.174755,
+      "l"
+    ],
+    [
+      0.208124,
+      "y"
+    ],
+    [
+      0.596509,
+      "\r\n"
+    ],
+    [
+      1.374552,
+      "\u001b[0m\u001b[1mopenstack_networking_router_v2.swarm_swarmcluster_router: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000748,
+      "  admin_state_up:   \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000483,
+      "  distributed:      \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000685,
+      "  external_gateway: \"\" => \"f9c73cd5-9e7b-4bfd-89eb-c2f4f584c326\"\r\n"
+    ],
+    [
+      0.005237,
+      "  name:             \"\" => \"swarm_swarmcluster_router\"\r\n"
+    ],
+    [
+      0.000555,
+      "  region:           \"\" => \"<computed>\"\r\n  tenant_id:        \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.000695,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_v2.secgroup_swarmcluster-1: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000279,
+      "  description: \"\" => \"swarm Security group\"\r\n"
+    ],
+    [
+      0.000216,
+      "  name:        \"\" => \"secgroup_swarmcluster-1\"\r\n  region:      \"\" => \"<computed>\""
+    ],
+    [
+      7.1e-05,
+      "\r\n"
+    ],
+    [
+      0.000362,
+      "  tenant_id:   \"\" => \"<computed>\"\u001b[0m"
+    ],
+    [
+      0.000254,
+      "\r\n"
+    ],
+    [
+      0.00028,
+      "\u001b[0m\u001b[1mopenstack_networking_network_v2.network_swarmcluster: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000334,
+      "  admin_state_up: \"\" => \"true\"\r\n"
+    ],
+    [
+      0.000329,
+      "  name:           \"\" => \"network_swarmcluster\"\r\n"
+    ],
+    [
+      0.000192,
+      "  region:         \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000338,
+      "  shared:         \"\" => \"<computed>\"\r\n  tenant_id:      \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.416092,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_v2.secgroup_swarmcluster-1: Creation complete after 1s (ID: 5539fb76-07dc-411a-88b6-46a223bc757a)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.011968,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-1-1: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000421,
+      "  direction:         \"\" => \"ingress\"\r\n"
+    ],
+    [
+      0.0008,
+      "  ethertype:         \"\" => \"IPv4\"\r\n"
+    ],
+    [
+      0.000773,
+      "  port_range_max:    \"\" => \"65535\"\r\n"
+    ],
+    [
+      0.000218,
+      "  port_range_min:    \"\" => \"1\"\r\n"
+    ],
+    [
+      0.000558,
+      "  protocol:          \"\" => \"4\"\r\n  region:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000392,
+      "  remote_group_id:   \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000571,
+      "  remote_ip_prefix:  \"\" => \"192.168.3.0/24\"\r\n"
+    ],
+    [
+      0.00073,
+      "  security_group_id: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.007173,
+      "  tenant_id:         \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.294963,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-1-1: Creation complete after 0s (ID: 8b398c5a-365a-4ef3-ac37-fee639e6c3ea)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.01513,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-2-1: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000385,
+      "  direction:         \"\" => \"ingress\"\r\n  ethertype:         \"\" => \"IPv4\"\r\n  port_range_max:    \"\" => \"80\"\r\n"
+    ],
+    [
+      0.000369,
+      "  port_range_min:    \"\" => \"80\"\r\n"
+    ],
+    [
+      0.000625,
+      "  protocol:          \"\" => \"tcp\"\r\n"
+    ],
+    [
+      0.001731,
+      "  region:            \"\" => \"<computed>\"\r\n  remote_group_id:   \"\" => \"<computed>\"\r\n  remote_ip_prefix:  \"\" => \"0.0.0.0/0\"\r\n  security_group_id: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.000532,
+      "  tenant_id:         \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.421527,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-2-1: Creation complete after 1s (ID: c0e2c029-9376-43cf-983b-d6dec498fb95)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.010917,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-2-2: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000298,
+      "  direction:         \"\" => \"ingress\"\r\n"
+    ],
+    [
+      0.000625,
+      "  ethertype:         \"\" => \"IPv4\"\r\n"
+    ],
+    [
+      0.00034,
+      "  port_range_max:    \"\" => \"443\"\r\n"
+    ],
+    [
+      0.000668,
+      "  port_range_min:    \"\" => \"443\"\r\n"
+    ],
+    [
+      0.000443,
+      "  protocol:          \"\" => \"tcp\"\r\n"
+    ],
+    [
+      0.000581,
+      "  region:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.00064,
+      "  remote_group_id:   \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000171,
+      "  remote_ip_prefix:  \"\" => \"0.0.0.0/0\"\r\n"
+    ],
+    [
+      0.00085,
+      "  security_group_id: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.000365,
+      "  tenant_id:         \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.337841,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-2-2: Creation complete after 0s (ID: 1da963a8-035f-4632-9856-1db33fb7e480)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.012163,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-2-3: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.001232,
+      "  direction:         \"\" => \"ingress\""
+    ],
+    [
+      0.000556,
+      "\r\n"
+    ],
+    [
+      0.001634,
+      "  ethertype:         \"\" => \"IPv4\"\r\n"
+    ],
+    [
+      0.001494,
+      "  port_range_max:    \"\" => \"8081\"\r\n  port_range_min:    \"\" => \"8081\"\r\n  protocol:          \"\" => \"tcp\"\r\n"
+    ],
+    [
+      0.003254,
+      "  region:            \"\" => \"<computed>\"\r\n  remote_group_id:   \"\" => \"<computed>\"\r\n  remote_ip_prefix:  \"\" => \"0.0.0.0/0\"\r\n  security_group_id: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n  tenant_id:         \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.326798,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-2-3: Creation complete after 0s (ID: 99b72255-c014-4057-981a-df6eb375c5ad)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.012077,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-2-4: Creating...\u001b[0m"
+    ],
+    [
+      0.00102,
+      "\r\n"
+    ],
+    [
+      0.000149,
+      "  direction:         \"\" => \"ingress\"\r\n"
+    ],
+    [
+      0.00145,
+      "  ethertype:         \"\" => \"IPv4\"\r\n"
+    ],
+    [
+      0.00085,
+      "  port_range_max:    \"\" => \"22\"\r\n"
+    ],
+    [
+      0.000818,
+      "  port_range_min:    \"\" => \"22\"\r\n"
+    ],
+    [
+      0.000607,
+      "  protocol:          \"\" => \"tcp\"\r\n"
+    ],
+    [
+      0.000474,
+      "  region:            \"\" => \"<computed>\"\r\n  remote_group_id:   \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.00052,
+      "  remote_ip_prefix:  \"\" => \"0.0.0.0/0\"\r\n"
+    ],
+    [
+      0.00113,
+      "  security_group_id: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.000629,
+      "  tenant_id:         \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.389979,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-2-4: Creation complete after 1s (ID: af670cc3-7700-44ef-8870-3441cec1ddd8)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.013195,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-3-1: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000437,
+      "  direction:         \"\" => \"ingress\""
+    ],
+    [
+      0.000753,
+      "\r\n"
+    ],
+    [
+      0.00108,
+      "  ethertype:         \"\" => \"IPv4\"\r\n"
+    ],
+    [
+      0.001073,
+      "  port_range_max:    \"\" => \"65535\""
+    ],
+    [
+      0.000882,
+      "\r\n  port_range_min:    \"\" => \"1\""
+    ],
+    [
+      0.000723,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "  protocol:          \"\" => \"tcp\"\r\n"
+    ],
+    [
+      0.000728,
+      "  region:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.00046,
+      "  remote_group_id:   \"\" => \"<computed>\"\r\n  remote_ip_prefix:  \"\" => \"192.168.3.0/24\"\r\n"
+    ],
+    [
+      0.00052,
+      "  security_group_id: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.000394,
+      "  tenant_id:         \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.391266,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-3-1: Creation complete after 0s (ID: ecd9fdaa-11f9-4869-8ea6-ef7a674b88e5)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.013293,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-3-2: Creating...\u001b[0m"
+    ],
+    [
+      0.000591,
+      "\r\n"
+    ],
+    [
+      0.001596,
+      "  direction:         \"\" => \"ingress\"\r\n"
+    ],
+    [
+      0.001095,
+      "  ethertype:         \"\" => \"IPv4\"\r\n"
+    ],
+    [
+      0.000472,
+      "  port_range_max:    \"\" => \"65535\"\r\n"
+    ],
+    [
+      0.000716,
+      "  port_range_min:    \"\" => \"1\"\r\n"
+    ],
+    [
+      0.000924,
+      "  protocol:          \"\" => \"udp\"\r\n"
+    ],
+    [
+      0.000442,
+      "  region:            \"\" => \"<computed>\"\r\n  remote_group_id:   \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000706,
+      "  remote_ip_prefix:  \"\" => \"192.168.3.0/24\"\r\n"
+    ],
+    [
+      0.000905,
+      "  security_group_id: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.000455,
+      "  tenant_id:         \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.34209,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-3-2: Creation complete after 0s (ID: f8cecb04-2ffc-4586-8a50-6cc17d8449b8)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.028296,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-3-3: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000892,
+      "  direction:         \"\" => \"ingress\"\r\n"
+    ],
+    [
+      0.000377,
+      "  ethertype:         \"\" => \"IPv4\"\r\n"
+    ],
+    [
+      0.000499,
+      "  port_range_max:    \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000506,
+      "  port_range_min:    \"\" => \"<computed>\"\r\n  protocol:          \"\" => \"icmp\"\r\n"
+    ],
+    [
+      0.000399,
+      "  region:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.008372,
+      "  remote_group_id:   \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.001894,
+      "  remote_ip_prefix:  \"\" => \"192.168.3.0/24\""
+    ],
+    [
+      0.000495,
+      "\r\n"
+    ],
+    [
+      0.00072,
+      "  security_group_id: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\""
+    ],
+    [
+      0.000271,
+      "\r\n"
+    ],
+    [
+      0.000631,
+      "  tenant_id:         \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.319993,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-3-3: Creation complete after 0s (ID: 25e1805f-2b1d-40be-95ed-d0021bfe994b)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.016863,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-4-1: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.001046,
+      "  direction:         \"\" => \"ingress\"\r\n"
+    ],
+    [
+      0.000904,
+      "  ethertype:         \"\" => \"IPv4\""
+    ],
+    [
+      0.000447,
+      "\r\n"
+    ],
+    [
+      0.000493,
+      "  port_range_max:    \"\" => \"65535\""
+    ],
+    [
+      0.000486,
+      "\r\n"
+    ],
+    [
+      0.000718,
+      "  port_range_min:    \"\" => \"1\"\r\n"
+    ],
+    [
+      0.000152,
+      "  protocol:          \"\" => \"tcp\"\r\n"
+    ],
+    [
+      0.001019,
+      "  region:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000365,
+      "  remote_group_id:   \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000403,
+      "  remote_ip_prefix:  \"\" => \"10.244.0.0/16\"\r\n"
+    ],
+    [
+      0.000423,
+      "  security_group_id: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.000383,
+      "  tenant_id:         \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.379496,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-4-1: Creation complete after 0s (ID: 74f89474-d2d6-4630-a851-5c5c426431d7)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.015053,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-4-2: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000625,
+      "  direction:         \"\" => \"ingress\""
+    ],
+    [
+      0.003233,
+      "\r\n"
+    ],
+    [
+      0.000465,
+      "  ethertype:         \"\" => \"IPv4\"\r\n"
+    ],
+    [
+      0.000178,
+      "  port_range_max:    \"\" => \"65535\"\r\n"
+    ],
+    [
+      0.000641,
+      "  port_range_min:    \"\" => \"1\"\r\n"
+    ],
+    [
+      0.000381,
+      "  protocol:          \"\" => \"udp\""
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.000868,
+      "  region:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000322,
+      "  remote_group_id:   \"\" => \"<computed>\""
+    ],
+    [
+      0.001085,
+      "\r\n"
+    ],
+    [
+      0.000616,
+      "  remote_ip_prefix:  \"\" => \"10.244.0.0/16\"\r\n"
+    ],
+    [
+      0.000879,
+      "  security_group_id: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.000489,
+      "  tenant_id:         \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.386089,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-4-2: Creation complete after 1s (ID: a942955f-fb29-47c7-82ff-77b43448c819)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.016027,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-4-3: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.00145,
+      "  direction:         \"\" => \"ingress\"\r\n"
+    ],
+    [
+      0.000599,
+      "  ethertype:         \"\" => \"IPv4\""
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.000735,
+      "  port_range_max:    \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000601,
+      "  port_range_min:    \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000283,
+      "  protocol:          \"\" => \"icmp\"\r\n  region:            \"\" => \"<computed>\""
+    ],
+    [
+      0.000333,
+      "\r\n"
+    ],
+    [
+      0.000893,
+      "  remote_group_id:   \"\" => \"<computed>\"\r\n  remote_ip_prefix:  \"\" => \"10.244.0.0/16\""
+    ],
+    [
+      0.000317,
+      "\r\n"
+    ],
+    [
+      0.000706,
+      "  security_group_id: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.000427,
+      "  tenant_id:         \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.632486,
+      "\u001b[0m\u001b[1mopenstack_networking_secgroup_rule_v2.secgroup_swarmcluster-4-3: Creation complete after 0s (ID: 401f9842-26d8-446c-b1c1-ac4fe51ebeea)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.581169,
+      "\u001b[0m\u001b[1mopenstack_networking_router_v2.swarm_swarmcluster_router: Creation complete after 6s (ID: cece4ab9-1bc9-414b-9270-6291b2d46632)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.702783,
+      "\u001b[0m\u001b[1mopenstack_networking_network_v2.network_swarmcluster: Creation complete after 7s (ID: f7f47159-889d-476a-a8b8-6bd25fc37230)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.004205,
+      "\u001b[0m\u001b[1mopenstack_networking_subnet_v2.subnet_swarmcluster: Creating...\u001b[0m\r\n  allocation_pools.#: \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000171,
+      "  cidr:               \"\" => \"192.168.3.0/24\"\r\n  enable_dhcp:        \"\" => \"true\"\r\n"
+    ],
+    [
+      5.8e-05,
+      "  gateway_ip:         \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000113,
+      "  ip_version:         \"\" => \"4\"\r\n  name:               \"\" => \"subnet_swarmcluster\"\r\n"
+    ],
+    [
+      8.7e-05,
+      "  network_id:         \"\" => \"f7f47159-889d-476a-a8b8-6bd25fc37230\"\r\n"
+    ],
+    [
+      9.5e-05,
+      "  region:             \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      4.7e-05,
+      "  tenant_id:          \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      5.456659,
+      "\u001b[0m\u001b[1mopenstack_networking_subnet_v2.subnet_swarmcluster: Creation complete after 5s (ID: 29bf0620-ca8c-4621-9ce6-c47815ae0590)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.027272,
+      "\u001b[0m\u001b[1mopenstack_networking_router_interface_v2.swarm_swarmcluster_router_interface: Creating...\u001b[0m\r\n  port_id:   \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000151,
+      "  region:    \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000966,
+      "  router_id: \"\" => \"cece4ab9-1bc9-414b-9270-6291b2d46632\"\r\n"
+    ],
+    [
+      0.000681,
+      "  subnet_id: \"\" => \"29bf0620-ca8c-4621-9ce6-c47815ae0590\"\u001b[0m\r\n"
+    ],
+    [
+      0.000382,
+      "\u001b[0m\u001b[1mopenstack_networking_port_v2.swarm_swarmcluster_port_11: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000514,
+      "  admin_state_up:               \"\" => \"true\""
+    ],
+    [
+      0.000288,
+      "\r\n"
+    ],
+    [
+      0.000549,
+      "  all_fixed_ips.#:              \"\" => \"<computed>\""
+    ],
+    [
+      0.000221,
+      "\r\n"
+    ],
+    [
+      0.000212,
+      "  all_security_group_ids.#:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000412,
+      "  device_id:                    \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000337,
+      "  device_owner:                 \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000315,
+      "  fixed_ip.#:                   \"\" => \"1\"\r\n"
+    ],
+    [
+      0.000426,
+      "  fixed_ip.0.ip_address:        \"\" => \"192.168.3.11\"\r\n"
+    ],
+    [
+      0.000423,
+      "  fixed_ip.0.subnet_id:         \"\" => \"29bf0620-ca8c-4621-9ce6-c47815ae0590\"\r\n"
+    ],
+    [
+      0.000196,
+      "  mac_address:                  \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000332,
+      "  name:                         \"\" => \"swarm_swarmcluster_port_11\"\r\n"
+    ],
+    [
+      0.000345,
+      "  network_id:                   \"\" => \"f7f47159-889d-476a-a8b8-6bd25fc37230\"\r\n"
+    ],
+    [
+      0.000337,
+      "  region:                       \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000315,
+      "  security_group_ids.#:         \"\" => \"1\"\r\n"
+    ],
+    [
+      0.000389,
+      "  security_group_ids.375391362: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.00015,
+      "  tenant_id:                    \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.000239,
+      "\u001b[0m\u001b[1mopenstack_networking_port_v2.swarm_swarmcluster_port_14: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000195,
+      "  admin_state_up:               \"\" => \"true\"\r\n"
+    ],
+    [
+      0.000211,
+      "  all_fixed_ips.#:              \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.001022,
+      "  all_security_group_ids.#:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000129,
+      "  device_id:                    \"\" => \"<computed>\""
+    ],
+    [
+      0.000167,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      "  device_owner:                 \"\" => \"<computed>\""
+    ],
+    [
+      0.000148,
+      "\r\n"
+    ],
+    [
+      0.000157,
+      "  fixed_ip.#:                   \"\" => \"1\"\r\n"
+    ],
+    [
+      0.0002,
+      "  fixed_ip.0.ip_address:        \"\" => \"192.168.3.14\""
+    ],
+    [
+      3.3e-05,
+      "\r\n"
+    ],
+    [
+      0.000276,
+      "  fixed_ip.0.subnet_id:         \"\" => \"29bf0620-ca8c-4621-9ce6-c47815ae0590\""
+    ],
+    [
+      0.00064,
+      "\r\n  mac_address:                  \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000262,
+      "  name:                         \"\" => \"swarm_swarmcluster_port_14\"\r\n"
+    ],
+    [
+      0.00013,
+      "  network_id:                   \"\" => \"f7f47159-889d-476a-a8b8-6bd25fc37230\"\r\n"
+    ],
+    [
+      0.00013,
+      "  region:                       \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000101,
+      "  security_group_ids.#:         \"\" => \"1\"\r\n"
+    ],
+    [
+      0.00016,
+      "  security_group_ids.375391362: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.000112,
+      "  tenant_id:                    \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.000171,
+      "\u001b[0m\u001b[1mopenstack_networking_port_v2.swarm_swarmcluster_port_10: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000142,
+      "  admin_state_up:               \"\" => \"true\"\r\n"
+    ],
+    [
+      9.8e-05,
+      "  all_fixed_ips.#:              \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.00013,
+      "  all_security_group_ids.#:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      8.6e-05,
+      "  device_id:                    \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000117,
+      "  device_owner:                 \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000163,
+      "  fixed_ip.#:                   \"\" => \"1\"\r\n  fixed_ip.0.ip_address:        \"\" => \"192.168.3.10\"\r\n"
+    ],
+    [
+      0.000126,
+      "  fixed_ip.0.subnet_id:         \"\" => \"29bf0620-ca8c-4621-9ce6-c47815ae0590\"\r\n"
+    ],
+    [
+      0.000202,
+      "  mac_address:                  \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      9.8e-05,
+      "  name:                         \"\" => \"swarm_swarmcluster_port_10\"\r\n"
+    ],
+    [
+      0.000125,
+      "  network_id:                   \"\" => \"f7f47159-889d-476a-a8b8-6bd25fc37230\"\r\n"
+    ],
+    [
+      0.000101,
+      "  region:                       \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000167,
+      "  security_group_ids.#:         \"\" => \"1\"\r\n"
+    ],
+    [
+      8.7e-05,
+      "  security_group_ids.375391362: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.00013,
+      "  tenant_id:                    \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.000145,
+      "\u001b[0m\u001b[1mopenstack_networking_port_v2.swarm_swarmcluster_port_12: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000143,
+      "  admin_state_up:               \"\" => \"true\"\r\n"
+    ],
+    [
+      0.000107,
+      "  all_fixed_ips.#:              \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000156,
+      "  all_security_group_ids.#:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000162,
+      "  device_id:                    \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000156,
+      "  device_owner:                 \"\" => \"<computed>\"\r\n  fixed_ip.#:                   \"\" => \"1\"\r\n"
+    ],
+    [
+      8.9e-05,
+      "  fixed_ip.0.ip_address:        \"\" => \"192.168.3.12\"\r\n"
+    ],
+    [
+      0.000126,
+      "  fixed_ip.0.subnet_id:         \"\" => \"29bf0620-ca8c-4621-9ce6-c47815ae0590\"\r\n"
+    ],
+    [
+      0.000138,
+      "  mac_address:                  \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000112,
+      "  name:                         \"\" => \"swarm_swarmcluster_port_12\""
+    ],
+    [
+      0.000128,
+      "\r\n  network_id:                   \"\" => \"f7f47159-889d-476a-a8b8-6bd25fc37230\"\r\n  region:                       \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.00014,
+      "  security_group_ids.#:         \"\" => \"1\"\r\n"
+    ],
+    [
+      4.1e-05,
+      "  security_group_ids.375391362: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\""
+    ],
+    [
+      0.000141,
+      "\r\n  tenant_id:                    \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.000133,
+      "\u001b[0m\u001b[1mopenstack_networking_port_v2.swarm_swarmcluster_port_13: Creating...\u001b[0m\r\n"
+    ],
+    [
+      9.6e-05,
+      "  admin_state_up:               \"\" => \"true\"\r\n"
+    ],
+    [
+      6.4e-05,
+      "  all_fixed_ips.#:              \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      7.2e-05,
+      "  all_security_group_ids.#:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000189,
+      "  device_id:                    \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000143,
+      "  device_owner:                 \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000155,
+      "  fixed_ip.#:                   \"\" => \"1\"\r\n"
+    ],
+    [
+      0.000106,
+      "  fixed_ip.0.ip_address:        \"\" => \"192.168.3.13\"\r\n"
+    ],
+    [
+      0.00015,
+      "  fixed_ip.0.subnet_id:         \"\" => \"29bf0620-ca8c-4621-9ce6-c47815ae0590\"\r\n"
+    ],
+    [
+      0.000148,
+      "  mac_address:                  \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      3.3e-05,
+      "  name:                         \"\" => \"swarm_swarmcluster_port_13\"\r\n"
+    ],
+    [
+      0.000125,
+      "  network_id:                   \"\" => \"f7f47159-889d-476a-a8b8-6bd25fc37230\"\r\n"
+    ],
+    [
+      0.000179,
+      "  region:                       \"\" => \"<computed>\"\r\n  security_group_ids.#:         \"\" => \"1\"\r\n"
+    ],
+    [
+      9.2e-05,
+      "  security_group_ids.375391362: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.000179,
+      "  tenant_id:                    \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      5.816337,
+      "\u001b[0m\u001b[1mopenstack_networking_port_v2.swarm_swarmcluster_port_11: Creation complete after 6s (ID: c5dcd0d4-2ed1-465b-b92a-fbf1c6d70841)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.02901,
+      "\u001b[0m\u001b[1mopenstack_networking_port_v2.swarm_swarmcluster_port_10: Creation complete after 6s (ID: 9d3da08b-e882-4a75-b54a-bb42708f8e5d)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.053627,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node10: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000677,
+      "  access_ip_v4:              \"\" => \"<computed>\""
+    ],
+    [
+      0.000406,
+      "\r\n"
+    ],
+    [
+      0.000774,
+      "  access_ip_v6:              \"\" => \"<computed>\""
+    ],
+    [
+      0.000387,
+      "\r\n"
+    ],
+    [
+      0.000763,
+      "  all_metadata.%:            \"\" => \"<computed>\""
+    ],
+    [
+      0.000365,
+      "\r\n"
+    ],
+    [
+      0.000724,
+      "  availability_zone:         \"\" => \"AMS-EQ1\""
+    ],
+    [
+      0.000369,
+      "\r\n"
+    ],
+    [
+      0.000712,
+      "  flavor_id:                 \"\" => \"2008\""
+    ],
+    [
+      0.000337,
+      "\r\n"
+    ],
+    [
+      0.000461,
+      "  flavor_name:               \"\" => \"<computed>\""
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      0.000405,
+      "  force_delete:              \"\" => \"false\""
+    ],
+    [
+      0.000215,
+      "\r\n"
+    ],
+    [
+      0.000404,
+      "  image_id:                  \"\" => \"<computed>\""
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.000432,
+      "  image_name:                \"\" => \"Ubuntu 17.04\""
+    ],
+    [
+      0.000201,
+      "\r\n"
+    ],
+    [
+      0.000406,
+      "  key_pair:                  \"\" => \"PB_ITE_1\""
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.000429,
+      "  name:                      \"\" => \"swarm-swarmcluster-node10\""
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.000395,
+      "  network.#:                 \"\" => \"1\""
+    ],
+    [
+      0.000408,
+      "\r\n"
+    ],
+    [
+      0.000235,
+      "  network.0.access_network:  \"\" => \"false\""
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      0.000338,
+      "  network.0.fixed_ip_v4:     \"\" => \"<computed>\""
+    ],
+    [
+      0.000164,
+      "\r\n"
+    ],
+    [
+      0.000438,
+      "  network.0.fixed_ip_v6:     \"\" => \"<computed>\""
+    ],
+    [
+      0.003623,
+      "\r\n  network.0.floating_ip:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000358,
+      "  network.0.mac:             \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000303,
+      "  network.0.name:            \"\" => \"network_swarmcluster\"\r\n"
+    ],
+    [
+      0.00036,
+      "  network.0.port:            \"\" => \"9d3da08b-e882-4a75-b54a-bb42708f8e5d\"\r\n"
+    ],
+    [
+      0.000378,
+      "  network.0.uuid:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.00016,
+      "  region:                    \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000143,
+      "  security_groups.#:         \"\" => \"1\"\r\n"
+    ],
+    [
+      0.000253,
+      "  security_groups.375391362: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.000186,
+      "  stop_before_destroy:       \"\" => \"false\""
+    ],
+    [
+      0.0001,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "  user_data:                 \"\" => \"d7353b21911b2ff6fc39a2caa7b9c149586400b4\"\u001b[0m\r\n"
+    ],
+    [
+      0.469156,
+      "\u001b[0m\u001b[1mopenstack_networking_port_v2.swarm_swarmcluster_port_12: Creation complete after 6s (ID: 9f81912b-d9eb-4900-a632-364b496cd9c9)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.032654,
+      "\u001b[0m\u001b[1mopenstack_networking_router_interface_v2.swarm_swarmcluster_router_interface: Creation complete after 7s (ID: db8e830e-a799-40bc-b463-1107fd86ab7e)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.027655,
+      "\u001b[0m\u001b[1mopenstack_networking_port_v2.swarm_swarmcluster_port_13: Creation complete after 7s (ID: 997931e8-7014-4aec-a0a6-95fed4b93a7e)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000417,
+      "\u001b[0m\u001b[1mopenstack_networking_port_v2.swarm_swarmcluster_port_14: Creation complete after 7s (ID: 2cd89d71-f2a4-412c-8e95-87bfaa913ac0)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      9.453306,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node10: Still creating... (10s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      8.491715,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node10: Creation complete after 18s (ID: 1b03397a-f18d-42ea-ac06-b3088ab7c20f)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.016124,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node14: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000293,
+      "  access_ip_v4:              \"\" => \"<computed>\""
+    ],
+    [
+      9.9e-05,
+      "\r\n"
+    ],
+    [
+      0.000219,
+      "  access_ip_v6:              \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000134,
+      "  all_metadata.%:            \"\" => \"<computed>\""
+    ],
+    [
+      0.000164,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "  availability_zone:         \"\" => \"AMS-EQ1\"\r\n"
+    ],
+    [
+      0.000161,
+      "  flavor_id:                 \"\" => \"2008\""
+    ],
+    [
+      0.00012,
+      "\r\n"
+    ],
+    [
+      0.000691,
+      "  flavor_name:               \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.002574,
+      "  force_delete:              \"\" => \"false\"\r\n  image_id:                  \"\" => \"<computed>\"\r\n  image_name:                \"\" => \"Ubuntu 17.04\"\r\n  key_pair:                  \"\" => \"PB_ITE_1\"\r\n  name:                      \"\" => \"swarm-swarmcluster-node14\"\r\n  network.#:                 \"\" => \"1\"\r\n  network.0.access_network:  \"\" => \"false\"\r\n  network.0.fixed_ip_v4:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.00042,
+      "  network.0.fixed_ip_v6:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.00039,
+      "  network.0.floating_ip:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000372,
+      "  network.0.mac:             \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000591,
+      "  network.0.name:            \"\" => \"network_swarmcluster\"\r\n"
+    ],
+    [
+      0.000506,
+      "  network.0.port:            \"\" => \"2cd89d71-f2a4-412c-8e95-87bfaa913ac0\"\r\n"
+    ],
+    [
+      0.000121,
+      "  network.0.uuid:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.001805,
+      "  region:                    \"\" => \"<computed>\"\r\n  security_groups.#:         \"\" => \"1\"\r\n  security_groups.375391362: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n  stop_before_destroy:       \"\" => \"false\"\r\n  user_data:                 \"\" => \"24ac58e1f511f390b73b974089187f836355fe77\"\u001b[0m\r\n\u001b[0m\u001b[1mopenstack_compute_floatingip_associate_v2.fip_swarmcluster_f1: Creating...\u001b[0m\r\n  floating_ip: \"\" => \"83.96.236.77\"\r\n  instance_id: \"\" => \"1b03397a-f18d-42ea-ac06-b3088ab7c20f\"\r\n  region:      \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      0.005583,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node11: Creating...\u001b[0m\r\n  access_ip_v4:              \"\" => \"<computed>\"\r\n  access_ip_v6:              \"\" => \"<computed>\"\r\n  all_metadata.%:            \"\" => \"<computed>\"\r\n  availability_zone:         \"\" => \"AMS-EQ1\"\r\n  flavor_id:                 \"\" => \"2008\"\r\n  flavor_name:               \"\" => \"<computed>\"\r\n  force_delete:              \"\" => \"false\"\r\n  image_id:                  \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      6.3e-05,
+      "  image_name:                \"\" => \"Ubuntu 17.04\"\r\n"
+    ],
+    [
+      0.000108,
+      "  key_pair:                  \"\" => \"PB_ITE_1\"\r\n"
+    ],
+    [
+      0.000184,
+      "  name:                      \"\" => \"swarm-swarmcluster-node11\"\r\n"
+    ],
+    [
+      6.6e-05,
+      "  network.#:                 \"\" => \"1\""
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.000223,
+      "  network.0.access_network:  \"\" => \"false\"\r\n  network.0.fixed_ip_v4:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000198,
+      "  network.0.fixed_ip_v6:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.00015,
+      "  network.0.floating_ip:     \"\" => \"<computed>\"\r\n  network.0.mac:             \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000229,
+      "  network.0.name:            \"\" => \"network_swarmcluster\"\r\n"
+    ],
+    [
+      0.000263,
+      "  network.0.port:            \"\" => \"c5dcd0d4-2ed1-465b-b92a-fbf1c6d70841\""
+    ],
+    [
+      0.000181,
+      "\r\n"
+    ],
+    [
+      0.00076,
+      "  network.0.uuid:            \"\" => \"<computed>\"\r\n  region:                    \"\" => \"<computed>\"\r\n  security_groups.#:         \"\" => \"1\"\r\n  security_groups.375391362: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n  stop_before_destroy:       \"\" => \"false\"\r\n  user_data:                 \"\" => \"a20e46dfec272dcceaab8e356b080272aba489f5\"\u001b[0m\r\n\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node13: Creating...\u001b[0m\r\n  access_ip_v4:              \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000213,
+      "  access_ip_v6:              \"\" => \"<computed>\"\r\n  all_metadata.%:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      5.9e-05,
+      "  availability_zone:         \"\" => \"AMS-EQ1\"\r\n"
+    ],
+    [
+      6.2e-05,
+      "  flavor_id:                 \"\" => \"2008\""
+    ],
+    [
+      9.7e-05,
+      "\r\n  flavor_name:               \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000174,
+      "  force_delete:              \"\" => \"false\"\r\n  image_id:                  \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.00012,
+      "  image_name:                \"\" => \"Ubuntu 17.04\"\r\n  key_pair:                  \"\" => \"PB_ITE_1\"\r\n"
+    ],
+    [
+      0.00019,
+      "  name:                      \"\" => \"swarm-swarmcluster-node13\"\r\n  network.#:                 \"\" => \"1\"\r\n  network.0.access_network:  \"\" => \"false\"\r\n"
+    ],
+    [
+      3.9e-05,
+      "  network.0.fixed_ip_v4:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000162,
+      "  network.0.fixed_ip_v6:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000129,
+      "  network.0.floating_ip:     \"\" => \"<computed>\"\r\n  network.0.mac:             \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      9.8e-05,
+      "  network.0.name:            \"\" => \"network_swarmcluster\"\r\n"
+    ],
+    [
+      0.000147,
+      "  network.0.port:            \"\" => \"997931e8-7014-4aec-a0a6-95fed4b93a7e\"\r\n  network.0.uuid:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000146,
+      "  region:                    \"\" => \"<computed>\"\r\n  security_groups.#:         \"\" => \"1\"\r\n"
+    ],
+    [
+      6e-05,
+      "  security_groups.375391362: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n"
+    ],
+    [
+      0.00012,
+      "  stop_before_destroy:       \"\" => \"false\"\r\n"
+    ],
+    [
+      0.000129,
+      "  user_data:                 \"\" => \"24ac58e1f511f390b73b974089187f836355fe77\"\u001b[0m\r\n"
+    ],
+    [
+      6.7e-05,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node12: Creating...\u001b[0m\r\n"
+    ],
+    [
+      0.000197,
+      "  access_ip_v4:              \"\" => \"<computed>\"\r\n  access_ip_v6:              \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.00013,
+      "  all_metadata.%:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000104,
+      "  availability_zone:         \"\" => \"AMS-EQ1\"\r\n"
+    ],
+    [
+      0.000113,
+      "  flavor_id:                 \"\" => \"2008\"\r\n"
+    ],
+    [
+      7.3e-05,
+      "  flavor_name:               \"\" => \"<computed>\""
+    ],
+    [
+      4.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000169,
+      "  force_delete:              \"\" => \"false\"\r\n"
+    ],
+    [
+      5.2e-05,
+      "  image_id:                  \"\" => \"<computed>\"\r\n  image_name:                \"\" => \"Ubuntu 17.04\""
+    ],
+    [
+      7.7e-05,
+      "\r\n"
+    ],
+    [
+      4.6e-05,
+      "  key_pair:                  \"\" => \"PB_ITE_1\""
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.000149,
+      "  name:                      \"\" => \"swarm-swarmcluster-node12\"\r\n"
+    ],
+    [
+      4.3e-05,
+      "  network.#:                 \"\" => \"1\"\r\n"
+    ],
+    [
+      0.000118,
+      "  network.0.access_network:  \"\" => \"false\""
+    ],
+    [
+      0.000145,
+      "\r\n"
+    ],
+    [
+      8.8e-05,
+      "  network.0.fixed_ip_v4:     \"\" => \"<computed>\"\r\n  network.0.fixed_ip_v6:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000102,
+      "  network.0.floating_ip:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      9.7e-05,
+      "  network.0.mac:             \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      9.8e-05,
+      "  network.0.name:            \"\" => \"network_swarmcluster\"\r\n"
+    ],
+    [
+      9e-05,
+      "  network.0.port:            \"\" => \"9f81912b-d9eb-4900-a632-364b496cd9c9\"\r\n"
+    ],
+    [
+      0.000162,
+      "  network.0.uuid:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      6.1e-05,
+      "  region:                    \"\" => \"<computed>\"\r\n  security_groups.#:         \"\" => \"1\"\r\n"
+    ],
+    [
+      0.000124,
+      "  security_groups.375391362: \"\" => \"5539fb76-07dc-411a-88b6-46a223bc757a\"\r\n  stop_before_destroy:       \"\" => \"false\"\r\n"
+    ],
+    [
+      0.000113,
+      "  user_data:                 \"\" => \"a20e46dfec272dcceaab8e356b080272aba489f5\"\u001b[0m\r\n"
+    ],
+    [
+      5.99002,
+      "\u001b[0m\u001b[1mopenstack_compute_floatingip_associate_v2.fip_swarmcluster_f1: Creation complete after 6s (ID: 83.96.236.77/1b03397a-f18d-42ea-ac06-b3088ab7c20f/)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      3.989951,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node14: Still creating... (10s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.012598,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node11: Still creating... (10s elapsed)\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000314,
+      "\r\n"
+    ],
+    [
+      0.000685,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node13: Still creating... (10s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000922,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node12: Still creating... (10s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      8.451444,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node11: Creation complete after 18s (ID: 57711027-55cf-47de-9c1a-b59c3f5b9e82)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.539098,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node14: Still creating... (20s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.008399,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node13: Still creating... (20s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.001125,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node12: Still creating... (20s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.89241,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node13: Creation complete after 21s (ID: 57169bf4-7f7d-4441-92f2-5657130a7f0b)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      3.434712,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node12: Creation complete after 25s (ID: 6a695b1a-65bc-4267-8eb0-cd1b402af6d8)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      4.663768,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node14: Still creating... (30s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      6.278269,
+      "\u001b[0m\u001b[1mopenstack_compute_instance_v2.swarm-swarmcluster-node14: Creation complete after 36s (ID: 105b5cb8-6eed-4c08-a347-8339701eccb6)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.041123,
+      "\u001b[0m\u001b[1mopenstack_compute_floatingip_associate_v2.fip_swarmcluster_f2: Creating...\u001b[0m\r\n  floating_ip: \"\" => \"83.96.237.134\"\r\n  instance_id: \"\" => \"105b5cb8-6eed-4c08-a347-8339701eccb6\"\r\n  region:      \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      3.738348,
+      "\u001b[0m\u001b[1mopenstack_compute_floatingip_associate_v2.fip_swarmcluster_f2: Creation complete after 4s (ID: 83.96.237.134/105b5cb8-6eed-4c08-a347-8339701eccb6/)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.021032,
+      "\u001b[0m\u001b[1m\u001b[32m\r\n"
+    ],
+    [
+      0.000224,
+      "Apply complete! Resources: 28 added, 0 changed, 0 destroyed.\u001b[0m\r\n"
+    ],
+    [
+      0.012748,
+      "\u001b[1;90m[1050]\u001b[1;92m[\u001b[1;31mroot\u001b[1;92m:\u001b[1;37m/blueprints/tfgenswarm/tfgenswarm\u001b[1;92m]\u001b[33m (feature/tfgenswarm) \u001b[1;92m$\u001b[0m "
+    ],
+    [
+      12.955925,
+      "n"
+    ],
+    [
+      0.067803,
+      "o"
+    ],
+    [
+      0.183763,
+      "a"
+    ],
+    [
+      0.548518,
+      "\b\u001b[K"
+    ],
+    [
+      0.106658,
+      "v"
+    ],
+    [
+      0.036429,
+      "a"
+    ],
+    [
+      0.109051,
+      " "
+    ],
+    [
+      0.168691,
+      "l"
+    ],
+    [
+      0.108911,
+      "i"
+    ],
+    [
+      0.119867,
+      "s"
+    ],
+    [
+      0.068748,
+      "t"
+    ],
+    [
+      0.126023,
+      "\r\n"
+    ],
+    [
+      2.13259,
+      "+--------------------------------------+---------------------------+--------+------------+-------------+--------------------------------------------------+\r\n| ID                                   | Name                      | Status | Task State | Power State | Networks                                         |\r\n+--------------------------------------+---------------------------+--------+------------+-------------+--------------------------------------------------+\r\n| c615d1e5-5427-42d5-82ea-285ea1e44e1a | k8s-calico-node10         | ACTIVE | -          | Running     | network_calico=192.168.3.10, 83.96.236.25        |\r\n| 87904abb-71e3-4655-b14a-0a9d2ceccfe9 | k8s-calico-node11         | ACTIVE | -          | Running     | network_calico=192.168.3.11                      |\r\n| abd2a07f-fcb4-4da0-a0a9-dd78fe6cab79 | k8s-calico-node12         | ACTIVE | -          | Running     | network_calico=192.168.3.12, 83.96.236.79        |\r\n| 433b803d-11b2-438e-8768-b2dc7bde0c4d | k8s-calico-node13         | ACTIVE | -   "
+    ],
+    [
+      0.000107,
+      "       | Running     | network_calico=192.168.3.13                      |\r\n| bb81ae67-6aab-47bc-bfc1-cf22ddbc5ef2 | k8s-calico-node14         | ACTIVE | -          | Running     | network_calico=192.168.3.14                      |\r\n| 1b03397a-f18d-42ea-ac06-b3088ab7c20f | swarm-swarmcluster-node10 | ACTIVE | -          | Running     | network_swarmcluster=192.168.3.10, 83.96.236.77  |\r\n| 57711027-55cf-47de-9c1a-b59c3f5b9e82 | swarm-swarmcluster-node11 | ACTIVE | -          | Running     | network_swarmcluster=192.168.3.11                |\r\n| 6a695b1a-65bc-4267-8eb0-cd1b402af6d8 | swarm-swarmcluster-node12 | ACTIVE | -          | Running     | network_swarmcluster=192.168.3.12                |\r\n| 57169bf4-7f7d-4441-92f2-5657130a7f0b | swarm-swarmcluster-node13 | ACTIVE | -          | Running     | network_swarmcluster=192.168.3.13                |\r\n| 105b5cb8-6eed-4c08-a347-8339701eccb6 | swarm-swarmcluster-node14 | ACTIVE | -          | Running     | network_swarmcluster=192.168.3.14, 83.96.237.134 |\r\n+------"
+    ],
+    [
+      6.1e-05,
+      "--------------------------------+---------------------------+--------+------------+-------------+--------------------------------------------------+\r\n"
+    ],
+    [
+      0.04884,
+      "\u001b[1;90m[1050]\u001b[1;92m[\u001b[1;31mroot\u001b[1;92m:\u001b[1;37m/blueprints/tfgenswarm/tfgenswarm\u001b[1;92m]\u001b[33m (feature/tfgenswarm) \u001b[1;92m$\u001b[0m "
+    ],
+    [
+      8.837705,
+      "s"
+    ],
+    [
+      0.156566,
+      "s"
+    ],
+    [
+      0.044051,
+      "h"
+    ],
+    [
+      0.203511,
+      "-"
+    ],
+    [
+      0.078402,
+      "a"
+    ],
+    [
+      0.056509,
+      "d"
+    ],
+    [
+      0.161222,
+      "d "
+    ],
+    [
+      0.347747,
+      "\r\n"
+    ],
+    [
+      0.002479,
+      "Enter passphrase for /root/.ssh/id_rsa: "
+    ],
+    [
+      1.66419,
+      "\r\n"
+    ],
+    [
+      0.005894,
+      "Identity added: /root/.ssh/id_rsa (/root/.ssh/id_rsa)\r\n"
+    ],
+    [
+      0.003346,
+      "\u001b[1;90m[1050]\u001b[1;92m[\u001b[1;31mroot\u001b[1;92m:\u001b[1;37m/blueprints/tfgenswarm/tfgenswarm\u001b[1;92m]\u001b[33m (feature/tfgenswarm) \u001b[1;92m$\u001b[0m "
+    ],
+    [
+      0.70223,
+      "s"
+    ],
+    [
+      0.14403,
+      "s"
+    ],
+    [
+      0.080311,
+      "h"
+    ],
+    [
+      0.088129,
+      " "
+    ],
+    [
+      0.199653,
+      "r"
+    ],
+    [
+      0.064046,
+      "o"
+    ],
+    [
+      0.119965,
+      "o"
+    ],
+    [
+      0.065629,
+      "t"
+    ],
+    [
+      0.294242,
+      "@"
+    ],
+    [
+      0.54417,
+      "83.96"
+    ],
+    [
+      0.000291,
+      ".236.7"
+    ],
+    [
+      0.000275,
+      "7"
+    ],
+    [
+      1.167559,
+      "\r\n"
+    ],
+    [
+      0.082839,
+      "The authenticity of host '83.96.236.77 (83.96.236.77)' can't be established.\r\nECDSA key fingerprint is SHA256:rbXJP4SieF6ukewf5qa56frbbx0b89OzJ1unQnnPoC4.\r\nAre you sure you want to continue connecting (yes/no)? "
+    ],
+    [
+      1.194158,
+      "y"
+    ],
+    [
+      0.099019,
+      "e"
+    ],
+    [
+      0.067479,
+      "s"
+    ],
+    [
+      0.297986,
+      "\r\n"
+    ],
+    [
+      0.000477,
+      "Warning: Permanently added '83.96.236.77' (ECDSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      0.285776,
+      "\r\nThe programs included with the Ubuntu system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nUbuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by\r\napplicable law.\r\n\r\nLast login: Thu Jan  1 01:00:10 1970\r\r\n"
+    ],
+    [
+      0.093005,
+      "\u001b]0;root@swarm-swarmcluster-node10: ~\u0007root@swarm-swarmcluster-node10:~# "
+    ],
+    [
+      2.87951,
+      "d"
+    ],
+    [
+      0.082912,
+      "o"
+    ],
+    [
+      0.120487,
+      "c"
+    ],
+    [
+      0.064118,
+      "k"
+    ],
+    [
+      0.103733,
+      "e"
+    ],
+    [
+      0.058321,
+      "r"
+    ],
+    [
+      0.064032,
+      " "
+    ],
+    [
+      0.11753,
+      "n"
+    ],
+    [
+      0.071815,
+      "o"
+    ],
+    [
+      0.087859,
+      "d"
+    ],
+    [
+      0.162154,
+      "e"
+    ],
+    [
+      0.142751,
+      " "
+    ],
+    [
+      0.215192,
+      "l"
+    ],
+    [
+      0.07193,
+      "s"
+    ],
+    [
+      0.13778,
+      "\r\n"
+    ],
+    [
+      0.002267,
+      "-bash: docker: command not found\r\n"
+    ],
+    [
+      0.000431,
+      "\u001b]0;root@swarm-swarmcluster-node10: ~\u0007root@swarm-swarmcluster-node10:~# "
+    ],
+    [
+      2.483321,
+      "docker node ls"
+    ],
+    [
+      10.891677,
+      "\r\n"
+    ],
+    [
+      0.000346,
+      "-bash: docker: command not found\r\n"
+    ],
+    [
+      0.000202,
+      "\u001b]0;root@swarm-swarmcluster-node10: ~\u0007root@swarm-swarmcluster-node10:~# "
+    ],
+    [
+      1.105459,
+      "p"
+    ],
+    [
+      0.210917,
+      "s"
+    ],
+    [
+      0.258482,
+      "\b\u001b[K"
+    ],
+    [
+      0.127728,
+      "\b\u001b[K"
+    ],
+    [
+      0.231877,
+      "p"
+    ],
+    [
+      0.06656,
+      "s"
+    ],
+    [
+      0.07529,
+      " "
+    ],
+    [
+      0.070101,
+      "a"
+    ],
+    [
+      0.09116,
+      "u"
+    ],
+    [
+      0.023423,
+      "x"
+    ],
+    [
+      0.388538,
+      "|"
+    ],
+    [
+      0.715699,
+      "g"
+    ],
+    [
+      0.169172,
+      "r"
+    ],
+    [
+      0.066465,
+      "e"
+    ],
+    [
+      0.039801,
+      "p"
+    ],
+    [
+      0.113927,
+      " "
+    ],
+    [
+      1.02035,
+      "i"
+    ],
+    [
+      0.141975,
+      "n"
+    ],
+    [
+      0.077756,
+      "i"
+    ],
+    [
+      0.089825,
+      "t"
+    ],
+    [
+      0.128094,
+      "\r\n"
+    ],
+    [
+      0.004105,
+      "root         1  1.6  0.0  57312  7036 ?        Ss   10:49   0:01 /sbin/\u001b[01;31m\u001b[Kinit\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.002196,
+      "root       979  0.5  0.3  96736 31668 ?        Ss   10:49   0:00 /usr/bin/python3 /usr/bin/cloud-\u001b[01;31m\u001b[Kinit\u001b[m\u001b[K modules --mode=final\r\nroot      2601  0.0  0.0  14240   964 pts/0    S+   10:51   0:00 grep --color=auto \u001b[01;31m\u001b[Kinit\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.000187,
+      "\u001b]0;root@swarm-swarmcluster-node10: ~\u0007root@swarm-swarmcluster-node10:~# "
+    ],
+    [
+      4.991325,
+      "ps aux|grep init"
+    ],
+    [
+      0.599481,
+      "\r\n"
+    ],
+    [
+      0.003482,
+      "root         1  1.5  0.0  57312  7036 ?        Ss   10:49   0:01 /sbin/\u001b[01;31m\u001b[Kinit\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.002159,
+      "root       979  0.5  0.3  96736 31668 ?        Ss   10:49   0:00 /usr/bin/python3 /usr/bin/cloud-\u001b[01;31m\u001b[Kinit\u001b[m\u001b[K modules --mode=final\r\nroot      2603  0.0  0.0  14240  1008 pts/0    S+   10:51   0:00 grep --color=auto \u001b[01;31m\u001b[Kinit\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.000178,
+      "\u001b]0;root@swarm-swarmcluster-node10: ~\u0007root@swarm-swarmcluster-node10:~# "
+    ],
+    [
+      0.934966,
+      "ps aux|grep init"
+    ],
+    [
+      3.240378,
+      "\r\n"
+    ],
+    [
+      0.004894,
+      "root         1  1.5  0.0  57312  7036 ?        Ss   10:49   0:01 /sbin/\u001b[01;31m\u001b[Kinit\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.00258,
+      "root       979  0.5  0.3  96736 31668 ?        Ss   10:49   0:00 /usr/bin/python3 /usr/bin/cloud-\u001b[01;31m\u001b[Kinit\u001b[m\u001b[K modules --mode=final\r\nroot      2605  0.0  0.0  14240  1076 pts/0    S+   10:51   0:00 grep --color=auto \u001b[01;31m\u001b[Kinit\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.000358,
+      "\u001b]0;root@swarm-swarmcluster-node10: ~\u0007root@swarm-swarmcluster-node10:~# "
+    ],
+    [
+      0.475528,
+      "ps aux|grep init"
+    ],
+    [
+      3.581859,
+      "\r\n"
+    ],
+    [
+      0.003272,
+      "root         1  1.4  0.0  57312  7036 ?        Ss   10:49   0:01 /sbin/\u001b[01;31m\u001b[Kinit\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.002445,
+      "root       979  0.4  0.3  96736 31668 ?        Ss   10:49   0:00 /usr/bin/python3 /usr/bin/cloud-\u001b[01;31m\u001b[Kinit\u001b[m\u001b[K modules --mode=final\r\nroot      2607  0.0  0.0  14240   944 pts/0    S+   10:51   0:00 grep --color=auto \u001b[01;31m\u001b[Kinit\u001b[m\u001b[K\r\n\u001b]0;root@swarm-swarmcluster-node10: ~\u0007root@swarm-swarmcluster-node10:~# "
+    ],
+    [
+      1.318994,
+      "ps aux|grep init"
+    ],
+    [
+      0.608416,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      1.464414,
+      "\u001b[1@w"
+    ],
+    [
+      0.05773,
+      "\u001b[1@a"
+    ],
+    [
+      0.13045,
+      "\u001b[1@t"
+    ],
+    [
+      0.187613,
+      "\u001b[1@c"
+    ],
+    [
+      0.06906,
+      "\u001b[1@h"
+    ],
+    [
+      0.087278,
+      "\u001b[1@ "
+    ],
+    [
+      0.154775,
+      "\r\n"
+    ],
+    [
+      6.338194,
+      "\r\n\u001b]0;root@swarm-swarmcluster-node10: ~\u0007root@swarm-swarmcluster-node10:~# "
+    ],
+    [
+      1.547692,
+      "watch ps aux|grep init"
+    ],
+    [
+      0.19678,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\u001b[6P\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.815542,
+      "\r\n"
+    ],
+    [
+      0.003141,
+      "root         1  1.4  0.0  57384  7068 ?        Ss   10:49   0:01 /sbin/\u001b[01;31m\u001b[Kinit\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.002942,
+      "root       979  0.4  0.3  96736 31668 ?        Ss   10:49   0:00 /usr/bin/python3 /usr/bin/cloud-\u001b[01;31m\u001b[Kinit\u001b[m\u001b[K modules --mode=final\r\nroot      4201  0.0  0.0  14240  1028 pts/0    R+   10:51   0:00 grep --color=auto \u001b[01;31m\u001b[Kinit\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.000355,
+      "\u001b]0;root@swarm-swarmcluster-node10: ~\u0007root@swarm-swarmcluster-node10:~# "
+    ],
+    [
+      1.23657,
+      "d"
+    ],
+    [
+      0.066467,
+      "o"
+    ],
+    [
+      0.067981,
+      "c"
+    ],
+    [
+      0.10853,
+      "k"
+    ],
+    [
+      0.071342,
+      "e"
+    ],
+    [
+      0.070276,
+      "r"
+    ],
+    [
+      0.108137,
+      "\r\n"
+    ],
+    [
+      0.008392,
+      "\r\n"
+    ],
+    [
+      0.002521,
+      "Usage:\tdocker COMMAND\r\n\r\nA self-sufficient runtime for containers\r\n\r\nOptions:\r\n      --config string      Location of client config files (default \"/root/.docker\")\r\n  -D, --debug              Enable debug mode\r\n      --help               Print usage\r\n  -H, --host list          Daemon socket(s) to connect to\r\n  -l, --log-level string   Set the logging level (\"debug\"|\"info\"|\"warn\"|\"error\"|\"fatal\") (default\r\n                           \"info\")\r\n      --tls                Use TLS; implied by --tlsverify\r\n      --tlscacert string   Trust certs signed only by this CA (default \"/root/.docker/ca.pem\")\r\n      --tlscert string     Path to TLS certificate file (default \"/root/.docker/cert.pem\")\r\n      --tlskey string      Path to TLS key file (default \"/root/.docker/key.pem\")\r\n      --tlsverify          Use TLS and verify the remote\r\n  -v, --version            Print version information and quit\r\n\r\nManagement Commands:\r\n  config      Manage Docker configs\r\n  container   Manage containers\r\n  image       Manage images\r\n  ne"
+    ],
+    [
+      0.00011,
+      "twork     Manage networks\r\n  node        Manage Swarm nodes\r\n  plugin      Manage plugins\r\n  secret      Manage Docker secrets\r\n  service     Manage services\r\n  stack       Manage Docker stacks\r\n  swarm       Manage Swarm\r\n  system      Manage Docker\r\n  volume      Manage volumes\r\n\r\nCommands:\r\n  attach      Attach local standard input, output, and error streams to a running container\r\n  build       Build an image from a Dockerfile\r\n  commit      Create a new image from a container's changes\r\n  cp          Copy files/folders between a container and the local filesystem\r\n  create      Create a new container\r\n  diff        Inspect changes to files or directories on a container's filesystem\r\n  events      Get real time events from the server\r\n  exec        Run a command in a running container\r\n  export      Export a container's filesystem as a tar archive\r\n  history     Show the history of an image\r\n  images      List images\r\n  import      Import the contents from a tarball to create a filesystem image\r\n  info   "
+    ],
+    [
+      9.3e-05,
+      "     Display system-wide information\r\n  inspect     Return low-level information on Docker objects\r\n  kill        Kill one or more running containers\r\n  load        Load an image from a tar archive or STDIN\r\n  login       Log in to a Docker registry\r\n  logout      Log out from a Docker registry\r\n  logs        Fetch the logs of a container\r\n  pause       Pause all processes within one or more containers\r\n  port        List port mappings or a specific mapping for the container\r\n  ps          List containers\r\n  pull        Pull an image or a repository from a registry\r\n  push        Push an image or a repository to a registry\r\n  rename      Rename a container\r\n  restart     Restart one or more containers\r\n  rm          Remove one or more containers\r\n  rmi         Remove one or more images\r\n  run         Run a command in a new container\r\n  save        Save one or more images to a tar archive (streamed to STDOUT by default)\r\n  search      Search the Docker Hub for images\r\n  start       Start one or more stopped co"
+    ],
+    [
+      6.7e-05,
+      "ntainers\r\n  stats       Display a live stream of container(s) resource usage statistics\r\n  stop        Stop one or more running containers\r\n  tag         Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE\r\n  top         Display the running processes of a container\r\n  unpause     Unpause all processes within one or more containers\r\n  update      Update configuration of one or more containers\r\n  version     Show the Docker version information\r\n  wait        Block until one or more containers stop, then print their exit codes\r\n\r\nRun 'docker COMMAND --help' for more information on a command.\r\n"
+    ],
+    [
+      0.000886,
+      "\u001b]0;root@swarm-swarmcluster-node10: ~\u0007root@swarm-swarmcluster-node10:~# "
+    ],
+    [
+      0.535616,
+      "d"
+    ],
+    [
+      0.065451,
+      "o"
+    ],
+    [
+      0.113352,
+      "c"
+    ],
+    [
+      0.09726,
+      "k"
+    ],
+    [
+      0.090256,
+      "e"
+    ],
+    [
+      0.068316,
+      "r"
+    ],
+    [
+      0.047593,
+      " "
+    ],
+    [
+      0.113256,
+      "n"
+    ],
+    [
+      0.063687,
+      "o"
+    ],
+    [
+      0.018557,
+      "d"
+    ],
+    [
+      0.12489,
+      "e"
+    ],
+    [
+      0.080066,
+      " "
+    ],
+    [
+      0.087863,
+      "l"
+    ],
+    [
+      0.096029,
+      "s"
+    ],
+    [
+      0.200453,
+      "\r\n"
+    ],
+    [
+      0.021214,
+      "ID                            HOSTNAME                    STATUS              AVAILABILITY        MANAGER STATUS\r\nquvluabpy1t68o2mz6egg9cdi *   swarm-swarmcluster-node10   Ready               Active              Leader\r\n"
+    ],
+    [
+      0.0001,
+      "\u001b]0;root@swarm-swarmcluster-node10: ~\u0007root@swarm-swarmcluster-node10:~# "
+    ],
+    [
+      0.472818,
+      "docker node ls"
+    ],
+    [
+      0.201535,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.257319,
+      "\u001b[1@w"
+    ],
+    [
+      0.059819,
+      "\u001b[1@a"
+    ],
+    [
+      0.079898,
+      "\u001b[1@t"
+    ],
+    [
+      0.203964,
+      "\u001b[1@c"
+    ],
+    [
+      0.049073,
+      "\u001b[1@h"
+    ],
+    [
+      0.059248,
+      "\u001b[1@ "
+    ],
+    [
+      0.153631,
+      "\r\n"
+    ],
+    [
+      0.022978,
+      "\u001b[?1049h\u001b[1;54r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[H\u001b[2JEvery 2.0s: docker node ls\u001b[1;54Hswarm-swarmcluster-node10: Fri Oct 27 10:51:33 2017\u001b[3;1HID\u001b[3;31HHOSTNAME\u001b[3;59HSTATUS\u001b[3;79HAVAILABILITY\u001b[99GMANAGE\u001b[4;1HR STATUS\r\u001b[5dquvluabpy1t68o2mz6egg9cdi *   swarm-swarmcluster-node10   Ready\u001b[5;79HActive\u001b[99GLeader\u001b[54;104H"
+    ],
+    [
+      2.024179,
+      "\u001b[1;99H5\u001b[54;104H"
+    ],
+    [
+      2.023614,
+      "\u001b[1;99H7\u001b[54;104H"
+    ],
+    [
+      2.023681,
+      "\u001b[1;99H9\u001b[54;104H"
+    ],
+    [
+      2.023522,
+      "\u001b[1;98H41\u001b[54;104H"
+    ],
+    [
+      2.021755,
+      "\u001b[1;99H3\u001b[54;104H"
+    ],
+    [
+      2.023561,
+      "\u001b[1;99H5\u001b[54;104H"
+    ],
+    [
+      2.023562,
+      "\r\u001b[5d\u001b[2L\u001b[1;99H7\r\u001b[5dcbniakofheow7430kztyvjwrl\u001b[5;59HUnknown\u001b[5;79HActive\u001b[99GReacha\u001b[6;1Hble\u001b[54;104H"
+    ],
+    [
+      2.02418,
+      "\u001b[1;99H9\r\u001b[5dquvluabpy1t68o2mz6egg9cdi *   swarm-swarmcluster-node10   Ready  \u001b[99GLeader\u001b[6;1Hcbniakofheow7430kztyvjwrl     swarm-swarmcluster-node11   Ready\u001b[6;79HActive\u001b[99GReacha\u001b[7;1Hble\u001b[K\u001b[54;104H"
+    ],
+    [
+      2.02492,
+      "\u001b[1;98H51\r\u001b[8dq0far4e1t0nv5yh5f9kc3h2ua     swarm-swarmcluster-node12   Ready\u001b[8;79HActive\u001b[99GReacha\u001b[9;1Hble\r\u001b[10dpi259ry0rw1fhalajsopewlpf     swarm-swarmcluster-node13   Ready\u001b[10;79HActive\u001b[54;104H"
+    ],
+    [
+      2.024408,
+      "\u001b[1;99H3\u001b[54;104H"
+    ],
+    [
+      2.033089,
+      "\r\u001b[5d\u001b[L\u001b[1;99H5\r\u001b[5datpfw03jx8lf4tk9u4wry3uk5\u001b[5;59HUnknown\u001b[5;79HActive\u001b[54;104H"
+    ],
+    [
+      2.02438,
+      "\r\u001b[5d\u001b[M\u001b[1;99H7\r\u001b[11datpfw03jx8lf4tk9u4wry3uk5     swarm-swarmcluster-node14   Ready\u001b[11;79HActive\u001b[54;104H"
+    ],
+    [
+      2.024535,
+      "\u001b[1;99H9\u001b[54;104H"
+    ],
+    [
+      2.024045,
+      "\u001b[1;96H2:01\u001b[54;104H"
+    ],
+    [
+      2.026917,
+      "\u001b[1;99H3\u001b[54;104H"
+    ],
+    [
+      2.026268,
+      "\u001b[1;99H5\u001b[54;104H"
+    ],
+    [
+      2.025513,
+      "\u001b[1;99H7\u001b[54;104H"
+    ],
+    [
+      2.027895,
+      "\u001b[1;99H9\u001b[54;104H"
+    ],
+    [
+      2.023975,
+      "\u001b[1;98H11\u001b[54;104H"
+    ],
+    [
+      0.888894,
+      "\u001b[54;1H\u001b[?1049l\r\u001b[?1l\u001b>"
+    ],
+    [
+      0.000492,
+      "\u001b]0;root@swarm-swarmcluster-node10: ~\u0007root@swarm-swarmcluster-node10:~# "
+    ],
+    [
+      12.997067,
+      "logout\r\n"
+    ],
+    [
+      0.000477,
+      "Connection to 83.96.236.77 closed.\r\r\n"
+    ],
+    [
+      0.011348,
+      "\u001b[1;90m[1052]\u001b[1;92m[\u001b[1;31mroot\u001b[1;92m:\u001b[1;37m/blueprints/tfgenswarm/tfgenswarm\u001b[1;92m]\u001b[33m (feature/tfgenswarm) \u001b[1;92m$\u001b[0m "
+    ],
+    [
+      0.413869,
+      "ssh root@83.96.236.77"
+    ],
+    [
+      0.411421,
+      "\r\n"
+    ],
+    [
+      0.206249,
+      "                               b\r\n                            .  $  .\r\n        ....             d  *  *  $    .\r\n   .ze$$$$$$$$be..       ^b ^L 4F $    $\r\n  e$$$$$$$$$$$$$$$$e      \"L $  b $   J%\r\n.$$$$$$$$$$$$$P**\"\"**      3r'L $ $  4F\r\n \"*$$$$$$$$*\"               *.$ 3 $  $\r\n   *$$$$$\"                  ^$'r'$P d\"\r\n   ^$$$\"                     ^$$ $F4F\r\n    $$$                       \"$r*bP\r\n    $$$F                        \"4$\"\r\n    $$$$                         ^\"\r\n    $$$$b              ..eeeed$$$$$$$$eeee...\r\n    *$$$$b.       .ze$$$$$$$$$$$$$$$$$$$$$$$$$be..\r\n    '$$$$$$bee..e$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$bc\r\n     3$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$c\r\n      \"*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$r\r\n        ^\"\"\"\"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$e..        P\r\n             \"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$bee.z@\"\r\n              ^*$$$$$$$$*\"\"\"     \"\"\"\"**$$$$$$$$$$$$$\"\r\n                ^\"*$$$\"                 \"\"*$$$$$$*\"\r\n                    \"\"**eeec............eee@**\"\"   Gilo94'\r\n      "
+    ],
+    [
+      0.000117,
+      "                     \"\"\"\"\"\"\"\"\"\"\"\"\"\"\r\nLast login: Fri Oct 27 10:50:38 2017 from 217.21.246.115\r\r\n"
+    ],
+    [
+      0.010903,
+      "\u001b]0;root@swarm-swarmcluster-node10: ~\u0007root@swarm-swarmcluster-node10:~# "
+    ],
+    [
+      3.983074,
+      "logout\r\n"
+    ],
+    [
+      0.000263,
+      "Connection to 83.96.236.77 closed.\r\r\n"
+    ],
+    [
+      0.005541,
+      "\u001b[1;90m[1052]\u001b[1;92m[\u001b[1;31mroot\u001b[1;92m:\u001b[1;37m/blueprints/tfgenswarm/tfgenswarm\u001b[1;92m]\u001b[33m (feature/tfgenswarm) \u001b[1;92m$\u001b[0m "
+    ],
+    [
+      2.363947,
+      "exit\r\n"
+    ],
+    [
+      0.406884,
+      "\u001b]777;notify;Command completed;./cloudvps.sh \u0007\u001b]0;pblaas@LPT0006:~\u0007\u001b]7;file://LPT0006/home/pblaas\u0007"
+    ],
+    [
+      0.005034,
+      "pblaas@LPT0006 \u001b[32m~\u001b[33m\u001b[00m $ "
+    ]
+  ]
+}
